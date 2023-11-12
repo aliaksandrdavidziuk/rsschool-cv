@@ -16,10 +16,10 @@ etc.
 
 ## Code from Codewars:\
 ```javascript
-function doubleInteger(i) {
-  // i will be an integer. Double it and return it.
-  i = i * 2;
-  return i;
+function doubleInteger(Z) {
+  // Z will be an integer. Double it and return it.
+  Z = Z * 2;
+  return Z;
 }
 ```
 
